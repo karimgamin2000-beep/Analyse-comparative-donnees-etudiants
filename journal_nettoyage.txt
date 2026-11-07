@@ -1,0 +1,476 @@
+================================================================================
+JOURNAL DE NETTOYAGE DES DONNÉES - ANALYSE COMPARATIVE DE MARCHÉ
+Généré le : 2026-11-07 00:13:11
+Nombre total d'anomalies / opérations consignées : 94
+================================================================================
+
+[01] Marché Lagune | Réf : ML-1000
+     Nature      : Rupture de stock
+     Description : Disponibilité indiquée : 'Rupture'
+     Action      : Exclu du statut de 'moins cher' pour les comparatifs
+--------------------------------------------------------------------------------
+[02] Marché Lagune | Réf : ML-1000
+     Nature      : Rapprochement
+     Description : Désignation : 'SAMSUNG GALAXY A15 (128GB)'
+     Action      : Associé au produit P01 ('Samsung Galaxy A15 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[03] Marché Lagune | Réf : ML-1007
+     Nature      : Rapprochement
+     Description : Désignation : 'SAMSUNG GALAXY A25 (128GB)'
+     Action      : Associé au produit P02 ('Samsung Galaxy A25 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[04] Marché Lagune | Réf : ML-1014
+     Nature      : Rupture de stock
+     Description : Disponibilité indiquée : 'Rupture'
+     Action      : Exclu du statut de 'moins cher' pour les comparatifs
+--------------------------------------------------------------------------------
+[05] Marché Lagune | Réf : ML-1014
+     Nature      : Rapprochement
+     Description : Désignation : 'SAMSUNG GALAXY A55 (256GB)'
+     Action      : Associé au produit P03 ('Samsung Galaxy A55 256 Go') avec score 23
+--------------------------------------------------------------------------------
+[06] Marché Lagune | Réf : ML-1021
+     Nature      : Prix aberrant (coquille)
+     Description : Prix affiché 779 000 FCFA avec ancien prix 88700 FCFA
+     Action      : Coquille corrigée automatiquement à 77900 FCFA
+--------------------------------------------------------------------------------
+[07] Marché Lagune | Réf : ML-1021
+     Nature      : Rapprochement
+     Description : Désignation : 'TECNO SPARK 20 - 128GB'
+     Action      : Associé au produit P04 ('Tecno Spark 20 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[08] Marché Lagune | Réf : ML-1028
+     Nature      : Rapprochement
+     Description : Désignation : 'TECNO CAMON 30 - 256GB'
+     Action      : Associé au produit P05 ('Tecno Camon 30 256 Go') avec score 23
+--------------------------------------------------------------------------------
+[09] Marché Lagune | Réf : ML-1035
+     Nature      : Rapprochement
+     Description : Désignation : 'INFINIX HOT 40I 128GB'
+     Action      : Associé au produit P06 ('Infinix Hot 40i 128 Go') avec score 25
+--------------------------------------------------------------------------------
+[10] Marché Lagune | Réf : ML-1042
+     Nature      : Rapprochement
+     Description : Désignation : 'INFINIX NOTE 40 256GB'
+     Action      : Associé au produit P07 ('Infinix Note 40 256 Go') avec score 23
+--------------------------------------------------------------------------------
+[11] Marché Lagune | Réf : ML-1049
+     Nature      : Rupture de stock
+     Description : Disponibilité indiquée : 'Rupture'
+     Action      : Exclu du statut de 'moins cher' pour les comparatifs
+--------------------------------------------------------------------------------
+[12] Marché Lagune | Réf : ML-1049
+     Nature      : Rapprochement
+     Description : Désignation : 'ITEL A70 64GB'
+     Action      : Associé au produit P08 ('Itel A70 64 Go') avec score 21
+--------------------------------------------------------------------------------
+[13] Marché Lagune | Réf : ML-1056
+     Nature      : Rapprochement
+     Description : Désignation : 'IPHONE 13 128GB'
+     Action      : Associé au produit P09 ('Apple iPhone 13 128 Go') avec score 18
+--------------------------------------------------------------------------------
+[14] Marché Lagune | Réf : ML-1063
+     Nature      : Rapprochement
+     Description : Désignation : 'XIAOMI REDMI NOTE 13 128GB'
+     Action      : Associé au produit P10 ('Xiaomi Redmi Note 13 128 Go') avec score 25
+--------------------------------------------------------------------------------
+[15] Marché Lagune | Réf : ML-1070
+     Nature      : Rapprochement
+     Description : Désignation : 'PC PORTABLE HP 250 G9 I5 8GB/512GB'
+     Action      : Associé au produit P11 ('HP 250 G9 Core i5 8 Go 512 Go') avec score 42
+--------------------------------------------------------------------------------
+[16] Marché Lagune | Réf : ML-1077
+     Nature      : Rapprochement
+     Description : Désignation : 'PC PORTABLE LENOVO IDEAPAD 3 I3 8GB/256GB'
+     Action      : Associé au produit P12 ('Lenovo IdeaPad 3 Core i3 8 Go 256 Go') avec score 37
+--------------------------------------------------------------------------------
+[17] Marché Lagune | Réf : ML-1000
+     Nature      : Doublon
+     Description : Ligne 14 : référence ML-1000 déjà chargée
+     Action      : Doublon ignoré (conservation de la 1ère occurrence)
+--------------------------------------------------------------------------------
+[18] Marché Lagune | Réf : ML-1084
+     Nature      : Rupture de stock
+     Description : Disponibilité indiquée : 'Rupture'
+     Action      : Exclu du statut de 'moins cher' pour les comparatifs
+--------------------------------------------------------------------------------
+[19] Marché Lagune | Réf : ML-1084
+     Nature      : Rapprochement
+     Description : Désignation : 'PC PORTABLE DELL INSPIRON 15 I5 16GB/512GB'
+     Action      : Associé au produit P13 ('Dell Inspiron 15 Core i5 16 Go 512 Go') avec score 37
+--------------------------------------------------------------------------------
+[20] Marché Lagune | Réf : ML-1091
+     Nature      : Rapprochement
+     Description : Désignation : 'CLE USB SANDISK 64GB'
+     Action      : Associé au produit P14 ('Clé USB SanDisk 64 Go') avec score 18
+--------------------------------------------------------------------------------
+[21] Marché Lagune | Réf : ML-1098
+     Nature      : Rapprochement
+     Description : Désignation : 'DISQUE DUR EXTERNE SEAGATE 1TB'
+     Action      : Associé au produit P15 ('Disque dur externe Seagate 1 To') avec score 20
+--------------------------------------------------------------------------------
+[22] Marché Lagune | Réf : ML-1105
+     Nature      : Formatage texte
+     Description : Espaces superflus en début/fin : '  souris sans fil logitech m185 '
+     Action      : Nettoyé en 'souris sans fil logitech m185'
+--------------------------------------------------------------------------------
+[23] Marché Lagune | Réf : ML-1105
+     Nature      : Rapprochement
+     Description : Désignation : 'souris sans fil logitech m185'
+     Action      : Associé au produit P16 ('Souris sans fil Logitech M185') avec score 18
+--------------------------------------------------------------------------------
+[24] Marché Lagune | Réf : ML-1112
+     Nature      : Rapprochement
+     Description : Désignation : 'IMPRIMANTE HP DESKJET 2720E'
+     Action      : Associé au produit P17 ('Imprimante HP DeskJet 2720e') avec score 18
+--------------------------------------------------------------------------------
+[25] Marché Lagune | Réf : ML-1119
+     Nature      : Prix non exploitable
+     Description : Prix affiché : 'Prix sur demande'
+     Action      : Produit marqué comme non exploitable (prix = None)
+--------------------------------------------------------------------------------
+[26] Marché Lagune | Réf : ML-1119
+     Nature      : Rapprochement
+     Description : Désignation : 'ECRAN SAMSUNG 24"'
+     Action      : Associé au produit P19 ('Écran Samsung 24 pouces') avec score 14
+--------------------------------------------------------------------------------
+[27] Marché Lagune | Réf : ML-1126
+     Nature      : Rapprochement
+     Description : Désignation : 'REFRIGERATEUR HISENSE 205L'
+     Action      : Associé au produit P20 ('Réfrigérateur Hisense 205 L') avec score 16
+--------------------------------------------------------------------------------
+[28] Marché Lagune | Réf : ML-1133
+     Nature      : Rapprochement
+     Description : Désignation : 'CONGELATEUR NASCO 200L'
+     Action      : Associé au produit P21 ('Congélateur Nasco 200 L') avec score 16
+--------------------------------------------------------------------------------
+[29] Marché Lagune | Réf : ML-1140
+     Nature      : Rapprochement
+     Description : Désignation : 'TV SAMSUNG 43" CRYSTAL UHD 4K'
+     Action      : Associé au produit P22 ('TV Samsung 43 pouces Crystal UHD') avec score 18
+--------------------------------------------------------------------------------
+[30] Marché Lagune | Réf : ML-1147
+     Nature      : Rupture de stock
+     Description : Disponibilité indiquée : 'Rupture'
+     Action      : Exclu du statut de 'moins cher' pour les comparatifs
+--------------------------------------------------------------------------------
+[31] Marché Lagune | Réf : ML-1147
+     Nature      : Rapprochement
+     Description : Désignation : 'TV HISENSE 32"'
+     Action      : Associé au produit P23 ('TV Hisense 32 pouces') avec score 14
+--------------------------------------------------------------------------------
+[32] Marché Lagune | Réf : ML-1154
+     Nature      : Rapprochement
+     Description : Désignation : 'CLIMATISEUR LG 1CV'
+     Action      : Associé au produit P24 ('Climatiseur LG 1 CV') avec score 16
+--------------------------------------------------------------------------------
+[33] Marché Lagune | Réf : ML-1161
+     Nature      : Rapprochement
+     Description : Désignation : 'VENTILATEUR BINATONE 16"'
+     Action      : Associé au produit P25 ('Ventilateur sur pied Binatone 16 pouces') avec score 14
+--------------------------------------------------------------------------------
+[34] Marché Lagune | Réf : ML-1168
+     Nature      : Prix non exploitable
+     Description : Prix affiché : ''
+     Action      : Produit marqué comme non exploitable (prix = None)
+--------------------------------------------------------------------------------
+[35] Marché Lagune | Réf : ML-1168
+     Nature      : Rupture de stock
+     Description : Disponibilité indiquée : 'Rupture'
+     Action      : Exclu du statut de 'moins cher' pour les comparatifs
+--------------------------------------------------------------------------------
+[36] Marché Lagune | Réf : ML-1168
+     Nature      : Rapprochement
+     Description : Désignation : 'MIXEUR MOULINEX 1.5L'
+     Action      : Associé au produit P26 ('Mixeur Moulinex 1,5 L') avec score 23
+--------------------------------------------------------------------------------
+[37] Marché Lagune | Réf : ML-1175
+     Nature      : Rapprochement
+     Description : Désignation : 'FER A REPASSER PHILIPS'
+     Action      : Associé au produit P27 ('Fer à repasser Philips') avec score 11
+--------------------------------------------------------------------------------
+[38] Marché Lagune | Réf : ML-1182
+     Nature      : Rapprochement
+     Description : Désignation : 'MICRO-ONDES SAMSUNG 23L'
+     Action      : Associé au produit P28 ('Micro-ondes Samsung 23 L') avec score 18
+--------------------------------------------------------------------------------
+[39] Marché Lagune | Réf : ML-1189
+     Nature      : Rapprochement
+     Description : Désignation : 'CLIMATISEUR HISENSE 1.5CV'
+     Action      : Associé au produit P30 ('Climatiseur Hisense 1,5 CV') avec score 23
+--------------------------------------------------------------------------------
+[40] Marché Lagune | Réf : ML-1147
+     Nature      : Doublon
+     Description : Ligne 31 : référence ML-1147 déjà chargée
+     Action      : Doublon ignoré (conservation de la 1ère occurrence)
+--------------------------------------------------------------------------------
+[41] Baobab Shop | Réf : BB01412
+     Nature      : Rapprochement
+     Description : Titre : 'Galaxy A15 128GB - Samsung'
+     Action      : Associé au produit P01 ('Samsung Galaxy A15 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[42] Baobab Shop | Réf : BB02609
+     Nature      : Rapprochement
+     Description : Titre : 'Galaxy A25 128GB - Samsung'
+     Action      : Associé au produit P02 ('Samsung Galaxy A25 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[43] Baobab Shop | Réf : BB03433
+     Nature      : Rupture de stock
+     Description : Stock disponible : 0
+     Action      : Produit en rupture, exclu du statut 'moins cher'
+--------------------------------------------------------------------------------
+[44] Baobab Shop | Réf : BB03433
+     Nature      : Rapprochement
+     Description : Titre : 'Galaxy A55 256GB - Samsung'
+     Action      : Associé au produit P03 ('Samsung Galaxy A55 256 Go') avec score 23
+--------------------------------------------------------------------------------
+[45] Baobab Shop | Réf : BB04915
+     Nature      : Rapprochement
+     Description : Titre : 'Spark 20 128GB - Tecno'
+     Action      : Associé au produit P04 ('Tecno Spark 20 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[46] Baobab Shop | Réf : BB05319
+     Nature      : Rapprochement
+     Description : Titre : 'Camon 30 256GB - Tecno'
+     Action      : Associé au produit P05 ('Tecno Camon 30 256 Go') avec score 23
+--------------------------------------------------------------------------------
+[47] Baobab Shop | Réf : BB06565
+     Nature      : Rapprochement
+     Description : Titre : 'Hot 40i 128GB - Infinix'
+     Action      : Associé au produit P06 ('Infinix Hot 40i 128 Go') avec score 25
+--------------------------------------------------------------------------------
+[48] Baobab Shop | Réf : BB07953
+     Nature      : Rapprochement
+     Description : Titre : 'Note 40 256GB - Infinix'
+     Action      : Associé au produit P07 ('Infinix Note 40 256 Go') avec score 23
+--------------------------------------------------------------------------------
+[49] Baobab Shop | Réf : BB09460
+     Nature      : Rapprochement
+     Description : Titre : 'iPhone 13 128GB - Apple'
+     Action      : Associé au produit P09 ('Apple iPhone 13 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[50] Baobab Shop | Réf : BB10686
+     Nature      : Rapprochement
+     Description : Titre : 'Redmi Note 13 128GB - Xiaomi'
+     Action      : Associé au produit P10 ('Xiaomi Redmi Note 13 128 Go') avec score 25
+--------------------------------------------------------------------------------
+[51] Baobab Shop | Réf : BB11833
+     Nature      : Rapprochement
+     Description : Titre : 'HP Laptop 250 G9 (i5, 8GB, 512GB SSD)'
+     Action      : Associé au produit P11 ('HP 250 G9 Core i5 8 Go 512 Go') avec score 42
+--------------------------------------------------------------------------------
+[52] Baobab Shop | Réf : BB12319
+     Nature      : Rapprochement
+     Description : Titre : 'Lenovo IdeaPad 3 (i3, 8GB, 256GB SSD)'
+     Action      : Associé au produit P12 ('Lenovo IdeaPad 3 Core i3 8 Go 256 Go') avec score 37
+--------------------------------------------------------------------------------
+[53] Baobab Shop | Réf : BB14669
+     Nature      : Rapprochement
+     Description : Titre : 'SanDisk Ultra USB 64GB'
+     Action      : Associé au produit P14 ('Clé USB SanDisk 64 Go') avec score 16
+--------------------------------------------------------------------------------
+[54] Baobab Shop | Réf : BB15546
+     Nature      : Rapprochement
+     Description : Titre : 'Seagate Expansion 1TB'
+     Action      : Associé au produit P15 ('Disque dur externe Seagate 1 To') avec score 14
+--------------------------------------------------------------------------------
+[55] Baobab Shop | Réf : BB16464
+     Nature      : Rupture de stock
+     Description : Stock disponible : 0
+     Action      : Produit en rupture, exclu du statut 'moins cher'
+--------------------------------------------------------------------------------
+[56] Baobab Shop | Réf : BB16464
+     Nature      : Rapprochement
+     Description : Titre : 'Logitech M185 Wireless Mouse'
+     Action      : Associé au produit P16 ('Souris sans fil Logitech M185') avec score 18
+--------------------------------------------------------------------------------
+[57] Baobab Shop | Réf : BB17618
+     Nature      : Rapprochement
+     Description : Titre : 'HP DeskJet 2720e Printer'
+     Action      : Associé au produit P17 ('Imprimante HP DeskJet 2720e') avec score 16
+--------------------------------------------------------------------------------
+[58] Baobab Shop | Réf : BB18398
+     Nature      : Rapprochement
+     Description : Titre : 'TP-Link Archer C6 AC1200'
+     Action      : Associé au produit P18 ('Routeur TP-Link Archer C6') avec score 13
+--------------------------------------------------------------------------------
+[59] Baobab Shop | Réf : BB19114
+     Nature      : Rapprochement
+     Description : Titre : 'Samsung 24" Monitor'
+     Action      : Associé au produit P19 ('Écran Samsung 24 pouces') avec score 12
+--------------------------------------------------------------------------------
+[60] Baobab Shop | Réf : BB20158
+     Nature      : Rapprochement
+     Description : Titre : 'Hisense Fridge 205L'
+     Action      : Associé au produit P20 ('Réfrigérateur Hisense 205 L') avec score 14
+--------------------------------------------------------------------------------
+[61] Baobab Shop | Réf : BB22196
+     Nature      : Rapprochement
+     Description : Titre : 'Samsung 43" Crystal UHD TV'
+     Action      : Associé au produit P22 ('TV Samsung 43 pouces Crystal UHD') avec score 18
+--------------------------------------------------------------------------------
+[62] Baobab Shop | Réf : BB23458
+     Nature      : Rapprochement
+     Description : Titre : 'Hisense 32" TV'
+     Action      : Associé au produit P23 ('TV Hisense 32 pouces') avec score 14
+--------------------------------------------------------------------------------
+[63] Baobab Shop | Réf : BB24831
+     Nature      : Rapprochement
+     Description : Titre : 'LG Air Conditioner 1HP'
+     Action      : Associé au produit P24 ('Climatiseur LG 1 CV') avec score 14
+--------------------------------------------------------------------------------
+[64] Baobab Shop | Réf : BB26722
+     Nature      : Rapprochement
+     Description : Titre : 'Moulinex Blender 1.5L'
+     Action      : Associé au produit P26 ('Mixeur Moulinex 1,5 L') avec score 23
+--------------------------------------------------------------------------------
+[65] Baobab Shop | Réf : BB27999
+     Nature      : Prix non exploitable
+     Description : Montant invalide : None
+     Action      : Prix marqué comme None
+--------------------------------------------------------------------------------
+[66] Baobab Shop | Réf : BB27999
+     Nature      : Rapprochement
+     Description : Titre : 'Philips Steam Iron'
+     Action      : Associé au produit P27 ('Fer à repasser Philips') avec score 11
+--------------------------------------------------------------------------------
+[67] Baobab Shop | Réf : BB28797
+     Nature      : Rapprochement
+     Description : Titre : 'Samsung Microwave 23L'
+     Action      : Associé au produit P28 ('Micro-ondes Samsung 23 L') avec score 18
+--------------------------------------------------------------------------------
+[68] Baobab Shop | Réf : BB29464
+     Nature      : Rapprochement
+     Description : Titre : 'Electric Kettle 1.7L'
+     Action      : Associé au produit P29 ('Bouilloire électrique 1,7 L') avec score 18
+--------------------------------------------------------------------------------
+[69] Baobab Shop | Réf : BB30124
+     Nature      : Rupture de stock
+     Description : Stock disponible : 0
+     Action      : Produit en rupture, exclu du statut 'moins cher'
+--------------------------------------------------------------------------------
+[70] Baobab Shop | Réf : BB30124
+     Nature      : Rapprochement
+     Description : Titre : 'Hisense Air Conditioner 1.5HP'
+     Action      : Associé au produit P30 ('Climatiseur Hisense 1,5 CV') avec score 21
+--------------------------------------------------------------------------------
+[71] Comptoir Ivoire | Réf : CI200
+     Nature      : Rapprochement
+     Description : Article : 'Samsun Galaxy A15 128Go'
+     Action      : Associé au produit P01 ('Samsung Galaxy A15 128 Go') avec score 23
+--------------------------------------------------------------------------------
+[72] Comptoir Ivoire | Réf : CI201
+     Nature      : Rapprochement
+     Description : Article : 'Samsung A25 128Go'
+     Action      : Associé au produit P02 ('Samsung Galaxy A25 128 Go') avec score 21
+--------------------------------------------------------------------------------
+[73] Comptoir Ivoire | Réf : CI202
+     Nature      : Rapprochement
+     Description : Article : 'Tecno Spark 20'
+     Action      : Associé au produit P04 ('Tecno Spark 20 128 Go') avec score 14
+--------------------------------------------------------------------------------
+[74] Comptoir Ivoire | Réf : CI203
+     Nature      : Rapprochement
+     Description : Article : 'Infinix Hot 40i'
+     Action      : Associé au produit P06 ('Infinix Hot 40i 128 Go') avec score 16
+--------------------------------------------------------------------------------
+[75] Comptoir Ivoire | Réf : CI204
+     Nature      : Rapprochement
+     Description : Article : 'Itel A70'
+     Action      : Associé au produit P08 ('Itel A70 64 Go') avec score 12
+--------------------------------------------------------------------------------
+[76] Comptoir Ivoire | Réf : CI205
+     Nature      : Rapprochement
+     Description : Article : 'iPhone 13 128Go'
+     Action      : Associé au produit P09 ('Apple iPhone 13 128 Go') avec score 18
+--------------------------------------------------------------------------------
+[77] Comptoir Ivoire | Réf : CI206
+     Nature      : Rapprochement
+     Description : Article : 'HP 250 G9 i5'
+     Action      : Associé au produit P11 ('HP 250 G9 Core i5 8 Go 512 Go') avec score 26
+--------------------------------------------------------------------------------
+[78] Comptoir Ivoire | Réf : CI207
+     Nature      : Rapprochement
+     Description : Article : 'Lenovo IdeaPad 3 i3'
+     Action      : Associé au produit P12 ('Lenovo IdeaPad 3 Core i3 8 Go 256 Go') avec score 21
+--------------------------------------------------------------------------------
+[79] Comptoir Ivoire | Réf : CI208
+     Nature      : Rapprochement
+     Description : Article : 'Dell Inspiron 15 i5'
+     Action      : Associé au produit P13 ('Dell Inspiron 15 Core i5 16 Go 512 Go') avec score 21
+--------------------------------------------------------------------------------
+[80] Comptoir Ivoire | Réf : CI209
+     Nature      : Rapprochement
+     Description : Article : 'Clé USB SanDisk 64Go'
+     Action      : Associé au produit P14 ('Clé USB SanDisk 64 Go') avec score 18
+--------------------------------------------------------------------------------
+[81] Comptoir Ivoire | Réf : CI210
+     Nature      : Rapprochement
+     Description : Article : 'DD externe Seagate 1To'
+     Action      : Associé au produit P15 ('Disque dur externe Seagate 1 To') avec score 20
+--------------------------------------------------------------------------------
+[82] Comptoir Ivoire | Réf : CI211
+     Nature      : Rapprochement
+     Description : Article : 'Souris Logitech M185'
+     Action      : Associé au produit P16 ('Souris sans fil Logitech M185') avec score 14
+--------------------------------------------------------------------------------
+[83] Comptoir Ivoire | Réf : CI212
+     Nature      : Rapprochement
+     Description : Article : 'Frigo Hisense 205L'
+     Action      : Associé au produit P20 ('Réfrigérateur Hisense 205 L') avec score 16
+--------------------------------------------------------------------------------
+[84] Comptoir Ivoire | Réf : CI213
+     Nature      : Rapprochement
+     Description : Article : 'Congélateur Nasco 200L'
+     Action      : Associé au produit P21 ('Congélateur Nasco 200 L') avec score 16
+--------------------------------------------------------------------------------
+[85] Comptoir Ivoire | Réf : CI214
+     Nature      : Rupture de stock
+     Description : Quantité en rayon : 0
+     Action      : Produit en rupture physique, exclu du statut 'moins cher'
+--------------------------------------------------------------------------------
+[86] Comptoir Ivoire | Réf : CI214
+     Nature      : Rapprochement
+     Description : Article : 'TV Samsung 43"'
+     Action      : Associé au produit P22 ('TV Samsung 43 pouces Crystal UHD') avec score 14
+--------------------------------------------------------------------------------
+[87] Comptoir Ivoire | Réf : CI215
+     Nature      : Rapprochement
+     Description : Article : 'TV Hisense 32"'
+     Action      : Associé au produit P23 ('TV Hisense 32 pouces') avec score 14
+--------------------------------------------------------------------------------
+[88] Comptoir Ivoire | Réf : CI216
+     Nature      : Rapprochement
+     Description : Article : 'Clim LG 1CV'
+     Action      : Associé au produit P24 ('Climatiseur LG 1 CV') avec score 16
+--------------------------------------------------------------------------------
+[89] Comptoir Ivoire | Réf : CI217
+     Nature      : Rupture de stock
+     Description : Quantité en rayon : 0
+     Action      : Produit en rupture physique, exclu du statut 'moins cher'
+--------------------------------------------------------------------------------
+[90] Comptoir Ivoire | Réf : CI217
+     Nature      : Rapprochement
+     Description : Article : 'Ventilo Binatone 16"'
+     Action      : Associé au produit P25 ('Ventilateur sur pied Binatone 16 pouces') avec score 14
+--------------------------------------------------------------------------------
+[91] Comptoir Ivoire | Réf : CI218
+     Nature      : Rapprochement
+     Description : Article : 'Mixeur Moulinex'
+     Action      : Associé au produit P26 ('Mixeur Moulinex 1,5 L') avec score 7
+--------------------------------------------------------------------------------
+[92] Comptoir Ivoire | Réf : CI219
+     Nature      : Rapprochement
+     Description : Article : 'Fer Philips'
+     Action      : Associé au produit P27 ('Fer à repasser Philips') avec score 7
+--------------------------------------------------------------------------------
+[93] Comptoir Ivoire | Réf : CI220
+     Nature      : Rapprochement
+     Description : Article : 'Micro-ondes Samsung 23L'
+     Action      : Associé au produit P28 ('Micro-ondes Samsung 23 L') avec score 18
+--------------------------------------------------------------------------------
+[94] Comptoir Ivoire | Réf : CI221
+     Nature      : Rapprochement
+     Description : Article : 'Bouilloire 1,7L'
+     Action      : Associé au produit P29 ('Bouilloire électrique 1,7 L') avec score 18
+--------------------------------------------------------------------------------

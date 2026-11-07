@@ -1,0 +1,2 @@
+# Ce projet utilise exclusivement la bibliothèque standard de Python (>= 3.10)
+# Aucune dépendance externe requise (ni pandas, ni openpyxl).
